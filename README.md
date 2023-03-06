@@ -1,7 +1,6 @@
 # Project 00 For NeXT CS
 ### Class Period:
-### Name0: YOUR NAME HERE
-### Name1: OTHER NAME HERE (delete this line if you are working solo)
+### Name0: Shifaul Emdad
 ---
 
 
@@ -35,35 +34,35 @@ Type Racer specific requirements.
 
 ## Phase 0: Game Selection, Analysis & Plan
 
-#### Selected Game: YOUR GAME HERE
+#### Selected Game: Type Racer
 
 ### Rules
 What are the core rules of your game?
 
-YOUR ANSWER HERE
+Cant make a typing mistake. Dies if make a typing mistake. Have to type faster than before. Sentence resets 
 
 ### Necessary Features
 What are the core features that your game should have? These should be things that __must__ be implemented in order to make the game playable, not extra features that could be added to make the game more fun to play.
 
-YOUR ANSWERS HERE
+Typing sentence, and some buttons for resets and stuff.
 
 ### Extra Features
 What are some features that are not essential to gameplay, but you would like to see (provided you have time after completing the necessary features.
 
-YOUR ANSWERS HERE
+Visial keyboard.
 
 #### Interface
 What will your game look like?
 
-YOUR ANSWERS HERE
+typeracer(death mode) + monkeytype
 
 ### Controls
 How will your game be controlled?
 
-Keyboard Controls:
+Keyboard Controls: letters
 
 
-Mouse Controls:
+Mouse Controls: none
 
 
 
